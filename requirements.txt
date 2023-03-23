@@ -1,0 +1,9 @@
+django==4.1.7
+django-extensions==3.2.1
+# PEP8
+flake8==6.0.0
+flake8-builtins==2.1.0
+flake8-import-order==0.18.2
+ipython==8.11.0
+pep8-naming==0.13.3
+python-dotenv==1.0.0
